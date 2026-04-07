@@ -6,8 +6,10 @@
 
 # platinum
 - name: SHS Parents' Association
+  logo: /sponsors/StuyPA.png
   site: https://stuy-pa.org/
   tier: platinum
+  wide: true
 
 # gold
 - name: Vivian & Edward Lin Charitable Fund
